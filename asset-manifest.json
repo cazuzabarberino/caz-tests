@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/caz-test/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/caz-test/static/js/main.5cf1b91e.chunk.js",
+    "main.js.map": "/caz-test/static/js/main.5cf1b91e.chunk.js.map",
+    "runtime-main.js": "/caz-test/static/js/runtime-main.12504ed0.js",
+    "runtime-main.js.map": "/caz-test/static/js/runtime-main.12504ed0.js.map",
+    "static/js/2.b72ccd45.chunk.js": "/caz-test/static/js/2.b72ccd45.chunk.js",
+    "static/js/2.b72ccd45.chunk.js.map": "/caz-test/static/js/2.b72ccd45.chunk.js.map",
+    "static/js/3.a8518d1a.chunk.js": "/caz-test/static/js/3.a8518d1a.chunk.js",
+    "static/js/3.a8518d1a.chunk.js.map": "/caz-test/static/js/3.a8518d1a.chunk.js.map",
+    "index.html": "/caz-test/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/caz-test/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b72ccd45.chunk.js.LICENSE.txt": "/caz-test/static/js/2.b72ccd45.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/caz-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12504ed0.js",
+    "static/js/2.b72ccd45.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5cf1b91e.chunk.js"
+  ]
+}
