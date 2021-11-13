@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/caz-test/static/js/main.176ed44a.chunk.js",
-    "main.js.map": "/caz-test/static/js/main.176ed44a.chunk.js.map",
-    "runtime-main.js": "/caz-test/static/js/runtime-main.ed7e2267.js",
-    "runtime-main.js.map": "/caz-test/static/js/runtime-main.ed7e2267.js.map",
-    "static/js/2.97b158c8.chunk.js": "/caz-test/static/js/2.97b158c8.chunk.js",
-    "static/js/2.97b158c8.chunk.js.map": "/caz-test/static/js/2.97b158c8.chunk.js.map",
-    "index.html": "/caz-test/index.html",
-    "static/js/2.97b158c8.chunk.js.LICENSE.txt": "/caz-test/static/js/2.97b158c8.chunk.js.LICENSE.txt"
+    "main.js": "/caz-tests/static/js/main.176ed44a.chunk.js",
+    "main.js.map": "/caz-tests/static/js/main.176ed44a.chunk.js.map",
+    "runtime-main.js": "/caz-tests/static/js/runtime-main.2940f125.js",
+    "runtime-main.js.map": "/caz-tests/static/js/runtime-main.2940f125.js.map",
+    "static/js/2.97b158c8.chunk.js": "/caz-tests/static/js/2.97b158c8.chunk.js",
+    "static/js/2.97b158c8.chunk.js.map": "/caz-tests/static/js/2.97b158c8.chunk.js.map",
+    "index.html": "/caz-tests/index.html",
+    "static/js/2.97b158c8.chunk.js.LICENSE.txt": "/caz-tests/static/js/2.97b158c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed7e2267.js",
+    "static/js/runtime-main.2940f125.js",
     "static/js/2.97b158c8.chunk.js",
     "static/js/main.176ed44a.chunk.js"
   ]
