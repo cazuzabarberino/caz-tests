@@ -1,1 +1,1 @@
-[lol](http://cazuzabarberino.github.io/caz-tests)
+[Live](http://cazuzabarberino.github.io/caz-tests)
