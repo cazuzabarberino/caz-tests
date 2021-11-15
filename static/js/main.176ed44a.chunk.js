@@ -1,2 +1,0 @@
-(this["webpackJsonpcaz-tests"]=this["webpackJsonpcaz-tests"]||[]).push([[0],{9:function(t,e,s){"use strict";s.r(e);var c=s(0),n=s.n(c),a=s(3),r=s.n(a),i=s(1);var o=function(){return Object(i.jsx)("div",{className:"App",children:"Cazuza"})};r.a.render(Object(i.jsx)(n.a.StrictMode,{children:Object(i.jsx)(o,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.176ed44a.chunk.js.map
