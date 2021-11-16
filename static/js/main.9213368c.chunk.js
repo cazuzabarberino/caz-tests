@@ -1,2 +1,0 @@
-(this["webpackJsonpcaz-tests"]=this["webpackJsonpcaz-tests"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var c=n(1),s=n.n(c),a=n(3),r=n.n(a),i=n(0);var j=function(){var e=Object(c.useCallback)((function(e){}),[]);return Object(i.jsxs)(i.Fragment,{children:[Object(i.jsx)("div",{children:"0.02"}),Object(i.jsx)("input",{onChange:e,type:"file",name:"image",accept:".png, .jpg, .jpeg"})]})};r.a.render(Object(i.jsx)(s.a.StrictMode,{children:Object(i.jsx)(j,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.9213368c.chunk.js.map
