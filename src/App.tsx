@@ -1,7 +1,8 @@
 import React from "react";
+import ResizableColumn from "./ResizableColumn";
 
 function App() {
-  return <div className="App">Cazuza</div>;
+  return <ResizableColumn />;
 }
 
 export default App;
